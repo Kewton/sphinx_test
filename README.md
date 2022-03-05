@@ -7,3 +7,4 @@ pip3 install -r requirements.txt
 ```
 
 # 詳細は
+https://kewton.blog/archives/1015
